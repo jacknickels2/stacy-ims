@@ -1,4 +1,10 @@
-# StacyIms
+# Stacy-IMS
+
+This repository contains the inventory management system (IMS) for Stacy and her business Black Dog Pressworks.
+This website is run only locally and is only visible to LAN.
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.7.
 
